@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project version="0.18.1" title="">
+  <file path="dummy.php" hash="ef1e4ee6c20830b8ff55e267ea08aa8a">
+    <parse_markers>
+      <error line="1" code="50007">No page-level DocBlock was found in file dummy.php</error>
+    </parse_markers>
+  </file>
+  <file path="index.php" hash="4305ddd6edc46e2070a7cd9ce7916a8f">
+    <parse_markers>
+      <error line="1" code="50007">No page-level DocBlock was found in file index.php</error>
+    </parse_markers>
+  </file>
+  <marker>todo</marker>
+  <marker>fixme</marker>
+</project>
